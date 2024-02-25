@@ -20,8 +20,8 @@ This repository contains starter code for building mobile applications using Exp
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Abdullah0Dev/starter_code_expo.git
+cd starter_code_expo
 ```
 
 ### Install Dependencies
