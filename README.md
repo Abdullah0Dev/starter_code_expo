@@ -1,4 +1,4 @@
-# (Abdullah Dev Channel):[https://www.youtube.com/@AbdullahDev.?sub_confirmation=1]
+(Abdullah Dev Channel)[https://www.youtube.com/@AbdullahDev?sub_confirmation=1]
 
 ```markdown
 # Expo React Native Starter Code
